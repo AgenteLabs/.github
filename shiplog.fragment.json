@@ -2,8 +2,25 @@
   "shipped": "1",
   "source": "repo/flashylabs-github",
   "org": "org/flashylabs",
-  "generated": "2026-10-27T04:37:23.339Z",
+  "generated": "2026-10-27T17:01:30.402Z",
   "entries": [
+    {
+      "id": "ship/flashylabs-github/7bf3d7ed42c2",
+      "repo": "repo/flashylabs-github",
+      "at": "2026-10-27T18:01:18+01:00",
+      "kind": "infra",
+      "title": "Update README.md",
+      "by": [
+        "person/michael"
+      ],
+      "asserted": "2026-10-27",
+      "assertedBy": "agent/flashylabs-github-ci",
+      "visibility": "public",
+      "refs": {
+        "commit": "7bf3d7ed42c284d7627daac88b8c84336142f499"
+      },
+      "digest": "baf2cf272aa94cbdfa094f3eb8bc1ec4dbd00086b3232eec0ec3a71fe51b16de"
+    },
     {
       "id": "ship/flashylabs-github/8893f954250d",
       "repo": "repo/flashylabs-github",
