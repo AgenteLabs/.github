@@ -70,6 +70,6 @@ First to present all four is sealed as the network's first **Storm Chaser**.
 
 ---
 
-*Flashy Labs is the research and development arm of [Flashy
+*Agente Labs is an agentic research and development partner of [Flashy
 Group](https://flashygroup.com). [GDA Group](https://gda.group) is the capital
 partner.*
