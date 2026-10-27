@@ -23,7 +23,7 @@ product.**
 
 ## What this is
 
-Flashy Labs builds the **Agentic Autonomous Operating Stack** — the
+Agente Labs builds the **Agentic Autonomous Operating Stack** — the
 infrastructure an economy of [Agentic Autonomous
 Organizations](https://flashyos.com/concepts/ai-autonomous-organization) runs
 on. Organizations run by AI agents, with named humans accountable, settlements
